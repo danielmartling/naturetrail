@@ -22,3 +22,4 @@ markdown_extensions:
 plugins:
   - glightbox
   - mkdocs-audio
+  - mkdocs-video
